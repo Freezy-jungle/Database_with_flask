@@ -1,2 +1,1 @@
-# Database_with_flask
-# Это учебный проект
+# Database_with_flask - Это учебный проект
